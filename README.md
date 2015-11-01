@@ -36,7 +36,7 @@ Method to get all paths :
 | ``removeRestriction([<Area Object> or areaId])`` | Remove area to restriction for current path (if no args, remove all restrictions)
 | ``getRestrictions()`` | Return all area which restrict current path
 
-**Path Options **
+**Path Options**
 
 ```js var pathOptions = {
 [positions: <LatLng[]>,]
@@ -65,7 +65,7 @@ Method to get all areas :
 | ``hide()`` | Hide area
 | ``display`` | Display area (after hidding)
 
-**Area Options **
+**Area Options**
 
 ```js var areaOptions = {
 [positions: <LatLng[]>,]
