@@ -5,7 +5,7 @@ For example add an restriction area for a path then when you add a position to t
 
 ## Version & Compatibilty
 
-Actual version is **0.1** (not a lot of feature and some bugs can become..)
+Actual version is **0.1** (not a lot of features and some bugs can become..)
 
 Compatible with **Leaflet 1.0 (beta)**, working on compatibility with leaflet 0.7.7 (stable version)
 
@@ -73,3 +73,5 @@ Method to get all areas :
 };```
 
 *positions* is for adding positions on creating and *style* is for define an style to area.
+
+Thanks to [Leaflet](http://leafletjs.com)
