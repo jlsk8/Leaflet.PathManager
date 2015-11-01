@@ -74,4 +74,6 @@ Method to get all areas :
 
 *positions* is for adding positions on creating and *style* is for define an style to area.
 
+---
+
 Thanks to [Leaflet](http://leafletjs.com)
